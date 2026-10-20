@@ -17,8 +17,7 @@ from config import BENCHMARK_DIR
 REQUIRED_SUPPORT_FILES = [
     "64-channels.loc",
     "Freq_Phase.mat",
-    "Sub_info.txt",
-    "readme.txt",
+    
 ]
 
 
